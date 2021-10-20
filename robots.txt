@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://7odahassan.github.io/7akawy/sitemap.xml
